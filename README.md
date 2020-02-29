@@ -1,4 +1,4 @@
-# Caesar Cipher Challange #
+# Caesar Cipher Challenge #
 Complete the function "caesarCipher" from main.c. Also try to validate the user input for shift count. Loop on invalid inputs to allow corrections.    
 
 
