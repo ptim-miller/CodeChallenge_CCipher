@@ -1,3 +1,5 @@
+// All rights reserved (c) 2020 P. Tim Miller
+// For academic use only
 #include <stdio.h>
 #include <string.h>
 
